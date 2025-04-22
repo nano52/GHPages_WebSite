@@ -7,10 +7,12 @@ permalink: /
 **a**a
 18:15
 
-18:30～説明会　　
+18:30～20:00　説明会
+
+20:00～21:30　帰宅
 
 
-
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 
 
