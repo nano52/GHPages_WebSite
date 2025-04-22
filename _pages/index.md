@@ -3,7 +3,7 @@ title: "nice　to　meet　you！"
 author: default
 permalink: /
 ---
-＊＊アアアアア＊＊  １８：１５
+＊＊アアアアア＊＊　　１８：１５
 
 
 
