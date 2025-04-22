@@ -3,8 +3,10 @@ title: "nice　to　meet　you！"
 author: default
 permalink: /
 ---
-＊＊アアアアア＊＊
+＊＊アアアアア＊＊　　
+
 18:15　　
+
 18:30～説明会　　
 
 
